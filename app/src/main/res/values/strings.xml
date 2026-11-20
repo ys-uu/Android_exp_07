@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">音乐播放器</string>
+    <string name="music_player_title">音乐播放器</string>
+    <string name="loading_music_short">正在读取本机音乐…</string>
+    <string name="loading_music">正在使用 ContentResolver 读取本机音乐…</string>
+    <string name="no_music_found">未查询到音乐。请先向手机或模拟器添加音频文件，然后点击本行重新扫描。</string>
+    <string name="permission_required">未授予音乐读取权限，无法获取歌曲列表。点击此处重新授权。</string>
+    <string name="service_start_failed">音乐服务启动失败：%1$s</string>
+    <string name="unknown_song">未知歌曲</string>
+    <string name="unknown_error">未知错误</string>
+
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="stop">停止</string>
+    <string name="previous">上一首</string>
+    <string name="next">下一首</string>
+    <string name="not_selected_song">未选择歌曲</string>
+    <string name="select_from_list_tip">请从上方列表选择一首音乐</string>
+    <string name="time_zero">00:00</string>
+
+    <string name="notification_channel_name">音乐播放通知</string>
+    <string name="notification_channel_desc">显示当前播放的音乐名称和播放状态</string>
+    <string name="service_started">音乐播放服务已启动</string>
+    <string name="service_running">音乐播放服务运行中</string>
+    <string name="loading_song">正在加载：%1$s</string>
+    <string name="playback_failed">播放失败，错误码：%1$d/%2$d</string>
+    <string name="cannot_play_song">无法播放该音频：%1$s</string>
+    <string name="paused_status">%1$s（已暂停）</string>
+</resources>
